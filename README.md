@@ -1,2 +1,2 @@
 # python-homework
-repo containing pyBank &amp; pyRamen files
+repo containing PyBank &amp; PyRamen files
